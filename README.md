@@ -34,7 +34,10 @@ An **advanced retail analytics project** using **SQL Database** 🛢️ and **Po
 
 ## 📸 Sample Dashboard Views
 
-*(Add screenshots of your Power BI dashboards here for better visual appeal.)*
+
+
+![logo](https://github.com/himani-data/sales-analysis/blob/main/sales.png)
+
 
 ---
 
