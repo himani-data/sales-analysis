@@ -56,4 +56,4 @@ An **advanced retail analytics project** using **SQL Database** 🛢️ and **Po
 
 ---
 
-> ✨ Feel free to explore and connect on [LinkedIn](https://linkedin.com/) for collaborations!
+> ✨ Feel free to explore and connect on [LinkedIn](www.linkedin.com/in/himaniverma2604) for collaborations!
